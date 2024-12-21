@@ -1,0 +1,7 @@
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\obj\Debug\LatihanSoalSatu.csproj.AssemblyReference.cache
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\obj\Debug\LatihanSoalSatu.csproj.CoreCompileInputs.cache
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\bin\Debug\LatihanSoalSatu.exe.config
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\bin\Debug\LatihanSoalSatu.exe
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\bin\Debug\LatihanSoalSatu.pdb
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\obj\Debug\LatihanSoalSatu.exe
+D:\Coding Coba\Belajar Sisap\LatihanSoalSatu\LatihanSoalSatu\obj\Debug\LatihanSoalSatu.pdb
